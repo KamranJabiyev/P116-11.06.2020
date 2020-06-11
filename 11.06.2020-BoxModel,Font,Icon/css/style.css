@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .main{
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    padding: 50px 20px 10px 5px;
+    padding: 20px;
+    margin: -50px;
+} */
+/*
+.sibling{
+    width: 200px;
+    height: 200px;
+    background: grey;
+    margin-top: 50px;
+} */
+
+/* p{
+    display: none;
+    visibility: hidden;
+    width: 200px;
+    padding: 20px;
+    margin: 50px;
+    background: red;
+} */
+
+/* span{
+    display: block;
+} */
+
+/* .same{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.red{
+    background: red;
+    width: 80%;
+}
+
+.green{
+    background: green;
+    width: 20%;
+}
+
+.black{
+    background: black;
+}
+
+.clearfix{
+    clear: both;
+} */
+/* menu start */
+/* .menu{
+    margin: 0 50px;
+    background-color: black;
+}
+
+.menu .menu-list{
+    padding: 10px 0;
+    float: right;
+}
+.menu .menu-list li{
+    display: inline-block;
+    padding: 5px 20px;
+}
+
+.menu .menu-list li:hover{
+    background-color: grey;
+}
+
+.menu .menu-list li a{
+    text-decoration: none;
+}
+
+.menu .logo{
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    float: left;
+}
+
+.clearfix{
+    clear: both;
+} */
+
+/* menu start */
+
+/*text css*/
+/* div{
+    width: 40%;
+    border: 1px solid;
+} */
+
+/* p{
+    color: red;
+    text-align: justify;
+    direction: rtl;
+} */
+
+/* a{
+    text-decoration: none;
+}
+
+p{
+    text-decoration: overline;
+} */
+
+/* p{
+    text-indent: 100px;
+    text-transform: lowercase;
+    letter-spacing: 2px;
+    line-height: 2;
+    word-spacing: 15px;
+} */
+
+/*end text css*/
+
+/*font*/
+/* @font-face{
+    font-family: Alboroto;
+    src: url(../fonts/Alboroto.otf);
+}
+body{
+    font-size: 50%;
+}
+p{
+    font-family: 'Metal Mania', cursive;
+    font-size: 20px;
+}
+
+p span{
+    font-weight: bold;
+} */
+
+/*font end*/
+
+/*icon*/
+
+.fa-accessible-icon{
+    font-size: 40px;
+    color: red;
+}
+
+.fa-futbol{
+    font-size: 60px;
+    color:black;
+}
